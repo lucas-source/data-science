@@ -7,7 +7,7 @@
 # Lucas Rocha Vieira
 <sub>*Analista de sistema ERP*</sub>
 
-Analista de sistema erp protheus. Atualmente estou desenvolvendo habilidades na linguagem Python com ênfase em Data Science..
+Analista de sistema erp protheus. Atualmente estou desenvolvendo habilidades na linguagem Python com ênfase em Data Science.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-rocha-1904a3172/)

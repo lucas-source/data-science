@@ -17,4 +17,4 @@ Analista de sistema erp protheus. Atualmente estou desenvolvendo habilidades na 
 
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 
---- # data-science
+---

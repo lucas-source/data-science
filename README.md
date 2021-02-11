@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/lucas-rocha-1904a3172/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-lucas-red.svg)](https://www.linkedin.com/in/lucas-rocha-1904a3172/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="banner.png" >
@@ -7,14 +7,13 @@
 # Lucas Rocha Vieira
 <sub>*Sou analista de sistema ERP*</sub>
 
-Analista de sistema erp protheus! Atualmente estou desenvolvendo habilidades na linguagem Python com ênfase em Data Science..
+Analista de sistema erp protheus. Atualmente estou desenvolvendo habilidades na linguagem Python com ênfase em Data Science..
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-rocha-1904a3172/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 

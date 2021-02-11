@@ -5,7 +5,7 @@
 </p>
 
 # Lucas Rocha Vieira
-<sub>*Sou analista de sistema ERP*</sub>
+<sub>*Analista de sistema ERP*</sub>
 
 Analista de sistema erp protheus. Atualmente estou desenvolvendo habilidades na linguagem Python com ênfase em Data Science..
 

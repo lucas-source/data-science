@@ -12,6 +12,8 @@ Analista de sistema erp protheus. Atualmente estou desenvolvendo habilidades na 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-rocha-1904a3172/)
 
+---
+
 **Projetos:**
 
 * [Análise de dados Airbnb - Sydney](https://github.com/lucas-source/data-science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)

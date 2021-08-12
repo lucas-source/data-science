@@ -15,6 +15,7 @@ Analista de sistema erp protheus. Atualmente estou desenvolvendo habilidades na 
 ---
 
 **Projetos:**
+* [Covid-19](https://github.com/lucas-source/data-science/blob/main/Covid19.ipynb)
 * [Análise da Violência no Rio de Janeiro](https://github.com/lucas-source/data-science/blob/main/RJ.ipynb)
 * [Análise de dados Airbnb - Sydney](https://github.com/lucas-source/data-science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 
